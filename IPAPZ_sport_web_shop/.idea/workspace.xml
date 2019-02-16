@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb68aeca-7084-4b1c-8f15-15253518c7ca" name="Default Changelist" comment="first commit, readme.md file">
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.idea/07_lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/DZ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/ERA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/controller/AdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/controller/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/Session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/entity/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/model/entity/Validator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/view/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/view/layout.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/view/login.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/view/registration.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/app/view/view.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/functions/barcode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_lecture/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IPAPZ_sport_web_shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/cache.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/dev/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/test/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/packages/test/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaDadatno" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ3-master/&amp;$a _inFunction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ3-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ3-master/funkcija.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ3-master/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ3-master/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.idea/05_lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/controller/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/model/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/model/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/model/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/view/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/app/view/layout.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP-Gravatar-master/Gravatar.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP-Gravatar-master/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP-Gravatar-master/barcode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP-Gravatar-master/sample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Z2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nesto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nesto.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/01_sat/polaznik00.inchoo4u.net.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/2_sat/01_helloworld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/2_sat/02_helloworld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/2_sat/03_variables.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/2_sat/04_IncludeRequire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/3_sat/01_suzivotHTMLPHP/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/3_sat/01_suzivotHTMLPHP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/3_sat/01_suzivotHTMLPHP/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/3_sat/02_primanje_parametara_GET.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/3_sat/04_operatori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/01_lecture/DZ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/1_sat/01_console_argv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/1_sat/02_If.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/1_sat/03_Switch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/1_sat/03_UsefullFunctions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/2_sat/04_Config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/2_sat/04_IndexArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/2_sat/05_AssociativeArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/2_sat/05_WorkingWithArrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/2_sat/06_SuperGlobals.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/3_sat/07_While.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/3_sat/08_DoWhile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/3_sat/09_For.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/3_sat/10_ForEach.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/3_sat/11_Exercise/01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/3_sat/11_Exercise/02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/DZ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/02_lecture/DZrjesenje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/00_Config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/01_sat/01_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/01_sat/02_Exercise/00_Functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/01_sat/02_Exercise/01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/01_sat/02_Exercise/02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/01_sat/02_Exercise/03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/02_sat/021_recursion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/02_sat/022_innerFunctions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/03_sat/03_anonymousFunctions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/03_sat/05_errors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/03_sat/06_trycatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/DZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/03_lecture/DZ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/00_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/01_ClassExample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/02_OOP_Encapsulation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/03_OOP_Inheritance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/04_OOP_Abstraction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/05_OOP_polymorphism/abstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/05_OOP_polymorphism/interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/06_namespaces/Inchoo/Catalog/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/06_namespaces/Magento/Catalog/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/06_namespaces/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/07_MagicMethods.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/08_TryCatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/09_URLrewrite/01_simpleExample/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/09_URLrewrite/01_simpleExample/first.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/09_URLrewrite/02_example/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/09_URLrewrite/02_example/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/DZ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/04_lecture/SingletonPattern.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.idea/05_lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/controller/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/model/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/model/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/model/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/view/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/app/view/layout.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture (1)/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.idea/05_lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/controller/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/model/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/model/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/model/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/view/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/app/view/layout.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/05_lecture/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/InchooPHPAkademijaZ6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-academy2019-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/bundles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/packages/cache.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/packages/dev/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/packages/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/packages/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/packages/test/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/packages/test/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/routes.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/config/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/src/Controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/src/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skeleton/symfony.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/symfony.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/bundles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/cache.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/dev/debug.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/dev/easy_log_handler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/dev/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/dev/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/dev/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/doctrine.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/doctrine_migrations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/prod/doctrine.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/prod/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/security.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/sensio_framework_extra.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/test/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/test/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/test/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/test/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/twig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/packages/validator.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/routes.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/routes/annotations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/routes/dev/twig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/routes/dev/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/config/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/public/js/post_likes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Controller/PostController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Controller/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Entity/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Entity/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Entity/PostLike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Entity/Tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Form/CommentFormType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Form/PostFormType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Form/RegistrationFormType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Form/TagFormType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190208074120.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190212083255.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190212085920.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190212103836.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190212110528.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190212112304.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Migrations/Version20190215103423.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Repository/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Repository/PostLikeRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Repository/PostRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Repository/TagRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Repository/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/src/Security/LoginFormAuthenticator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/symfony.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/templates/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/templates/post/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/templates/post/view.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/templates/security/login.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfony/templates/security/register.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InchooPHPAkademijaZ5/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webshop@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webshop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webshop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="webshop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webshop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="webshop: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="migration_versions: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#34#54#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1964">
+              <caret line="162" column="5" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Repository/UserRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Repository/UserRepository.php" />
+        <option value="$PROJECT_DIR$/.env.local" />
+        <option value="$PROJECT_DIR$/src/Entity/User.php" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php" />
+        <option value="$PROJECT_DIR$/src/Controller/UserController.php" />
+        <option value="$PROJECT_DIR$/templates/base.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="387" />
+    <option name="y" value="89" />
+    <option name="width" value="647" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPAPZ_sport_web_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPAPZ_sport_web_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb68aeca-7084-4b1c-8f15-15253518c7ca" name="Default Changelist" comment="" />
+      <created>1550337491788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550337491788</updated>
+      <workItem from="1550337496097" duration="489000" />
+      <workItem from="1550338513927" duration="362000" />
+      <workItem from="1550338882620" duration="6704000" />
+      <workItem from="1550352387920" duration="5268000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit, readme.md file">
+      <created>1550337684494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550337684494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12823000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1333" height="1025" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2975913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924107" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32944834" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit, readme.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit, readme.md file" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/dev/routing.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bundles.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/routing.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/framework.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/cache.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e72d9f11-5719-44a0-b21f-de4e1ebfd397/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/e72d9f11-5719-44a0-b21f-de4e1ebfd397.SCHEMA:webshop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>e72d9f11-5719-44a0-b21f-de4e1ebfd397.SCHEMA:webshop</OriginalElement>
+          <nodes>
+            <node x="" y="">e72d9f11-5719-44a0-b21f-de4e1ebfd397.TABLE:webshop.migration_versions</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="105.0" y="40.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20190216195723.php" />
+    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20190216195436.php" />
+    <entry file="uml://DATABASE/e72d9f11-5719-44a0-b21f-de4e1ebfd397.TABLE:webshop.migration_versions">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>e72d9f11-5719-44a0-b21f-de4e1ebfd397.TABLE:webshop.migration_versions</OriginalElement>
+          <nodes>
+            <node x="" y="">e72d9f11-5719-44a0-b21f-de4e1ebfd397.TABLE:webshop.migration_versions</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="317.0" y="40.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20190216200036.php" />
+    <entry file="file://$PROJECT_DIR$/.env.local">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/security/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Aroma Shop-doc/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/annotations.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/dev/web_profiler.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/dev/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20190216203513.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="87" column="71" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
+          <folding>
+            <element signature="e#32#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/UserRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1964">
+          <caret line="162" column="5" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#34#54#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

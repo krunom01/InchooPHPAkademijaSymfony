@@ -1,0 +1,33 @@
+
+
+
+<form method="post" action="<?php echo App::config('url') ?>admin/register" enctype="multipart/form-data">
+
+    <div class="form-group">
+
+        <label for="firstname">First name</label>
+        <input type="firstname" name="firstname">
+
+        <label for="lastname">Last name</label>
+        <input type="lastname" name="lastname">
+
+        <label for="email">Email</label>
+        <input type="email" name="email">
+
+        <label for="password">Password</label>
+        <input type="password" name="pass">
+
+        <label for="image">set your Image</label>
+        <input type="file" id="image" name="image">
+
+        <label>Role:</label>
+        <input type="radio" name="role" value="0" <?php if(isset($_POST["role"])){if($_POST["role"]==0){echo "checked";}} ?> ><label for="radnomjesto2">Admin</label>
+        <input type="radio" name="role" value="1" <?php if(isset($_POST["role"])){if($_POST["role"]==1){echo "checked";}} ?> ><label for="radnomjesto1">User</label>
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+
+</form>
+
+
